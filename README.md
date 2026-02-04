@@ -18,3 +18,7 @@ This project implements a transfer learning-based approach for classifying Optic
 ```bash
 git clone https://github.com/yourusername/oct-classification.git
 cd oct-classification
+
+**OCT Imges Link**
+
+https://drive.google.com/drive/folders/1RgQgLoaAjXTSXx3N5Glw7MKDSZvMKHV5?usp=drive_link 
